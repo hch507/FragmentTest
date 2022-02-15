@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android-sdk/FragmentTest/app/src/main/res/layout/activity_main.xml" value="0.125" />
         <entry key="..\:/android-sdk/FragmentTest/app/src/main/res/layout/fragment_fristfrag.xml" value="0.10144927536231885" />
         <entry key="..\:/android-sdk/FragmentTest/app/src/main/res/layout/fragment_secondfrag.xml" value="0.10144927536231885" />
         <entry key="..\:/android-sdk/FragmentTest/app/src/main/res/layout/fragment_thirdfrag.xml" value="0.10144927536231885" />
